@@ -1,0 +1,44 @@
+.skills {
+    height: 100vh;
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.skillsTitle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.skillsList {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.skillsList p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img_1 {
+    height: 300px;
+    width: 200px;
+    background-color: darkgray;
+}
+
+.skill_1 {
+
+}
+.skill_2 {
+
+}
+.skill_3 {
+
+}

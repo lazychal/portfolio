@@ -1,0 +1,13 @@
+.slogan {
+    height: 30vh;
+    background-color: deeppink;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.titleSpan {
+    text-align: center;
+}
+
